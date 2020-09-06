@@ -1,4 +1,4 @@
-# firebase_github_authentication
+# Firebase Github Authentication
 
 A new Flutter project.
 
