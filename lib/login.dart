@@ -108,7 +108,7 @@ class _LoginPageState extends State<LoginPage> {
               SizedBox(height: height*0.05,),
               Container(
                 height: height*0.06,
-                width: width*0.47,
+                width: width*0.5,
                 child: RaisedButton(
                   color: const Color(0xff2ea44f),
                   onPressed: onClickGitHubLoginButton,
