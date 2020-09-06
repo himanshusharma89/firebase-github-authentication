@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87705955225",
+    "firebase_url": "https://firbase-github-authentication.firebaseio.com",
+    "project_id": "firbase-github-authentication",
+    "storage_bucket": "firbase-github-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87705955225:android:c53f781853c343ae7c4108",
+        "android_client_info": {
+          "package_name": "com.example.firebase_github_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87705955225-vag3hlhrr3armq6ki26htpois3018hfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_github_authentication",
+            "certificate_hash": "3170047cb974c61e030402159ab0c74158413b7b"
+          }
+        },
+        {
+          "client_id": "87705955225-9csvj7c4a2uvvu9uhqfluduqmfs6sp6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDDUqBv2JJJRBoIptTr3Tx9QBLnctYs_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87705955225-9csvj7c4a2uvvu9uhqfluduqmfs6sp6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
