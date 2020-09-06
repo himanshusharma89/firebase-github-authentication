@@ -1,6 +1,10 @@
+<img src="https://github.com/himanshusharma89/firebase-github-authentication/blob/master/Web%201920%20%E2%80%93%201.png" width=100%>
+
 # Firebase Github Authentication
 
 A new Flutter project about implementing GitHub Authentication with Firebase.
+
+Article coming soon!
 
 ## Getting Started
 
