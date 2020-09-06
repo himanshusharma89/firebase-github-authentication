@@ -1,6 +1,6 @@
 # Firebase Github Authentication
 
-A new Flutter project.
+A new Flutter project about implementing GitHub Authentication with Firebase.
 
 ## Getting Started
 
